@@ -1,0 +1,4 @@
+C:\Program Files (x86)\chromedriver.exe
+C:\Program Files\Tesseract-OCR\tesseract.exe
+6
+The.Resident.S04 1080p AMZN,Riverdale S05 1080p AMZN,Snowpiercer.S02 1080p AMZN,Kenan S01 1080p AMZN,Resident.Alien.S01 1080p AMZN,Family.Guy.S19 1080p HULU,The.Flash S07 1080p AMZN,Superman.and.Lois.S01 1080p AMZN,The.Falcon.and.The.Winter.Soldier.S01 1080p DSNP
